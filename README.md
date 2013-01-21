@@ -1,8 +1,18 @@
-TODO:
-
-1. Få ident att funka på alla servrar
-2. Få /ctcp att funka. VERSION, TIME och FINGER (raven)
-3. Få boten att köra i bakgrunden med funktion att döda den (gb)
-4. Kunna telnet/DCC's till boten
-5. Börja lägga till funktionerna: !ip2asn, !tld, !seen (eller alla script i HackServ) 
-6. Extern filer, ex. config i extern fil som inkluderas i vanliga (raven)
+####################################################################
+#                                                                  #
+#                     ShadowBot by raven and gb                    #
+#                                                                  #
+#                       <info@shadowcore.eu>                       #
+#                                                                  #
+#------------------------=================-------------------------#
+#                                                                  #
+#           A small and simple IRC bot written in python           #
+#     Please read the file named FUNCTIONS for info how it works   #
+#                                                                  #
+#------------------------=================-------------------------#
+#                                                                  #
+# Jan 19, 2013:                                                    #
+#  	- Started coding the bot                                       #
+#		- gb joined as coder                                   			   #
+#                                                                  #
+#------------------------=================-------------------------#
