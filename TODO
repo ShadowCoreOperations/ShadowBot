@@ -1,6 +1,5 @@
-1. Få ident att funka på alla servrar
-2. Få /ctcp att funka. VERSION, TIME och FINGER (raven)
-3. Få boten att köra i bakgrunden med funktion att döda den (gb)
-4. Kunna telnet/DCC's till boten
-5. Börja lägga till funktionerna: !ip2asn, !tld, !seen (eller alla script i HackServ) 
-6. Extern filer, ex. config i extern fil som inkluderas i vanliga (raven)
+1. Have /ctcp replies working
+2. Have the bot run in the background
+3. Make a kill command..not sure how yet
+4. Add !functions
+5. Have a separate config file

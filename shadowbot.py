@@ -1,8 +1,9 @@
+#!/usr/bin/python
 import socket
 import sys
 import string
 
-server = "irc.colosolutions.net"
+server = "efnet.port80.se"
 port = 6667
 channel = "#shadowcore"
 botnick = "ShadowBot"
